@@ -1,17 +1,17 @@
 {
-    "name": "laravel/socialite",
+    "name": "laravel/socialitewithquickbook",
     "description": "Laravel wrapper around OAuth 1 & OAuth 2 libraries.",
-    "keywords": ["oauth", "laravel"],
+    "keywords": ["oauth2", "laravel","quickbook","quickbook wrapper","php quickbook "],
     "license": "MIT",
     "homepage": "https://laravel.com",
     "support": {
-        "issues": "https://github.com/laravel/socialite/issues",
-        "source": "https://github.com/laravel/socialite"
+        "issues": "https://github.com/onlinecheckwriter/socialite/issues",
+        "source": "https://github.com/onlinecheckwriter/socialite"
     },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "OnlineCheckWriter",
+            "email": "support@onlinecheckwriter.com"
         }
     ],
     "require": {
